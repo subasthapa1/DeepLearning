@@ -1,2 +1,2 @@
 # DeepLearning
-This repository will contains deep learning algorithms.
+This repository contains deep learning algorithms.
